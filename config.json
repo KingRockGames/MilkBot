@@ -1,0 +1,31 @@
+{
+  "token": "NzQ5OTY2Mzg1NjY4NDIzNzIx.X0zqoA.LCnGl1jcpLXhSySI3f79obI-oPY",
+  "prefix": ".",
+  "devids": "627459424461783040 || 660774931365101583 || 290610400763052035", 
+  "bugchannelid": "782886830496415765",
+  "suggestionchannelid": "784967197818093569",
+  "reportchannelid": "787190337839693846",
+  "everyoneMention": true,
+  "hostedBy": true,
+  "V": "1.9.0.0b",
+  "secret": "5ea7cf0b13dbb3bdcac92510b33f3d52",
+  "id": "dcf17557edc8c1a06ba7a4dd2779804a",
+  "name": "YaBoiUwU",
+  "youtubeAPI": "AIzaSyCrIsT_1C7KQ2cgKDxQrtj5roRXss0Ro7I",
+  "colors": {
+    "error": "0xFF0000",
+    "success": "0x00FF46",
+    "warning": "0xFFD100"
+  },
+  "emotes": {
+  "music": "🎶 ",
+  "queue": "🎞️",
+  "error": "❌",
+  "success": "☑️",
+  "warning": "⚠️",
+  "repeat": "🔁",
+  "pause": "⏸️",
+  "resume": "⏯️",
+  "stop": "⏹️"
+  }
+}
