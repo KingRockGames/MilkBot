@@ -7,7 +7,7 @@ const manager = new ShardingManager('./bot.js', {
 });
 
 const statcord = new Statcord.ShardingClient({
-     key: "statcord.com-WMHAYih1hSwtWm1NpTLe",
+     key: "statcord key",
      manager,
      postCpuStatistics: true, /* Whether to post CPU statistics or not, defaults to true */
      postMemStatistics: true, /* Whether to post memory statistics or not, defaults to true */
