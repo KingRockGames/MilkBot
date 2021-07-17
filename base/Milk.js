@@ -16,38 +16,23 @@ class Milk extends Client {
 		this.commands = new Collection(); // Creates new commands collection
 		this.aliases = new Collection(); // Creates new command aliases collection
 		this.devIds = [
-			"627459424461783040",
-			"591179218830753793",
-			"660774931365101583"
+			
 		];
         this.bugfinderIds = [
-			"627459424461783040",
-			"709804903358398464"
+			
 		];
 		this.supportteamIds = [
-			"627459424461783040",
-			"690745774954250260",
-			"709403323920547850",
-			"709555346800246855"
+			
 			
 		];
 		this.boostersIds = [
-			"627459424461783040",
+			
 		];
 		this.coolpeopleIds = [
-			"627459424461783040",
-			"591179218830753793",
-			"690745774954250260",
-			"709403323920547850",
-			"709555346800246855",
-			"611165590744203285",
-			"618365349984862208",
-			"397338324328775680",
-			"634493032598601739",
-			"707043684889133117"
+			
 		];
 		this.supportserverIds = [
-			"754965974167453737"
+			
 		]
 		
  
@@ -64,7 +49,7 @@ class Milk extends Client {
 		// ====================================================
 		// Webhooks
 
-		this.consolehook = new WebhookClient("782617945137872956", "7nFgWJdPL0qEXHtq5sUxjcB8bK_fZRtv49cPe-bi4xuALhE1Shzxm-SfFxUoO3PkLEAL")
+		this.consolehook = new WebhookClient("", "")
         this.newserverhook = new WebhookClient()
 		// ====================================================
 		// Functions
