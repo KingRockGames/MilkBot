@@ -22,7 +22,7 @@ client.on("message", async message => {
      }
 	  message.channel.startTyping();
 	
-	fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&botname=${client.user.username}&ownername=YaBoiUwU#6969`)
+	fetch(`https://api.affiliateplus.xyz/api/chatbot?message=${encodeURIComponent(message.content)}&botname=${client.user.username}&ownername=`)
 		.then(res => res.json())
 		.then(data => {
 			message.channel.send(`> ${message.content} \n <@${message.author.id}> ${data.message}`);
@@ -33,18 +33,7 @@ client.on("message", async message => {
 	}
 	});
 
-// =========== Mc server stats
-//const players = "test 4"
-///const testing = client.channels.cache.get("555945877483814915")
 
-//client.on('ready', message => {
-//
-//testing.send(`${players}`).then((message) => {
-   // setInterval(function() {
- ///     message.edit(`${players}`)
- /// }, 60000)}
-  //)}
-//)
 
 
 // =========== Load The Events
