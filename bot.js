@@ -61,7 +61,7 @@ const botStateArray = [
 	"v1.9.0.6b",
 	`${client.guilds.cache.size}`
 	];
-	const URL = "https://auth.mcleaks.net/v1/redeem"
+	
 client
  
 	.on("ready", () => {
